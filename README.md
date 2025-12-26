@@ -1,23 +1,18 @@
-
-# 📊 Dashboard UI using HTML & CSS
+Dashboard UI using HTML & CSS
 
 A responsive and modern **Dashboard User Interface** built using **HTML5** and **CSS3**.  
 This project focuses on clean layout design, responsiveness, and basic UI components without using any JavaScript frameworks.
 
----
-
-## 🚀 Features
+ Features
 
 - Responsive dashboard layout  
 - Sidebar navigation menu  
 - Header with icons  
 - Cards / widgets section  
 - Data table layout  
-- Pure HTML & CSS (no JavaScript)
+- Pure HTML & CSS 
 
----
-
-## 🛠️ Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
@@ -25,7 +20,7 @@ This project focuses on clean layout design, responsiveness, and basic UI compon
   - Grid
 - Font Awesome (for icons)
 
----
+
 
 
 
